@@ -9,7 +9,6 @@ def main():
         st.header(
             "Name: CHARVI KUSUMA ")
         st.header("UBID: charviku")
-        st.header("Date: 11|20|2023")
     elif choice == 'Model Prediction':
         from eminst_part4 import main as eminst_main
         eminst_main()
