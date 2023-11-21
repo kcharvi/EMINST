@@ -1,6 +1,5 @@
-import tensorflow as tf
 import numpy as np
-from PIL import Image, ImageOps
+from PIL import ImageOps
 import torch 
 import torch.nn as nn
 import csv
